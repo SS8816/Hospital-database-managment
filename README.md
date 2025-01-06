@@ -6,7 +6,7 @@ Welcome to the Hospital Database Management System project! This system aims to 
 2. Secure Access: Role-based access control ensures that only authorized personnel (such as doctors, nurses, and admin staff) can access sensitive patient information and perform critical operations.
 3. Comprehensive Database: Store and manage key hospital data, including patient records, medical histories, appointment schedules, and billing information.
 4. Real-Time Updates: Instantly update and retrieve patient information, ensuring timely and accurate decision-making for healthcare professionals.
-5. Interactive Dashboard: Visualize key metrics and trends (e.g., patient statistics, appointment schedules) to facilitate data-driven decision-making and improve hospital management.
+5. Interactive Dashboard: Visualize key metrics and trends (e.g., patient statistics, and appointment schedules) to facilitate data-driven decision-making and improve hospital management.
 ## Technologies Used
 - SQLAlchemy: An Object-Relational Mapping (ORM) library for Python, facilitating easy interaction with the database.
 - Python Flask: A lightweight web framework for building the application.
@@ -15,20 +15,12 @@ Welcome to the Hospital Database Management System project! This system aims to 
 ## Installation
 To get started with the Hospital Database Management System, follow these steps:
 
-Clone the repository:
-bash
-Copy code
+1. Clone the repository:
 git clone https://github.com/yourusername/hospital-dbms.git
-Navigate to the project directory:
-bash
-Copy code
+2. Navigate to the project directory:
 cd hospital-dbms
-Install the necessary dependencies:
-bash
-Copy code
+3. Install the necessary dependencies:
 pip install -r requirements.txt
-Run the application:
-bash
-Copy code
+4. Run the application:
 python app.py
-Access the application in your web browser at http://localhost:5000.
+5. Access the application in your web browser at http://localhost:5000.
